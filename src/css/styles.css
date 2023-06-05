@@ -5,10 +5,24 @@ body {
     padding: 0;
   }
   
-  h1, h2, h3 {
+  h2, h3 {
     margin: 0;
   }
+
+  h1{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+
+  }
   
+  a{
+    text-decoration: underline;
+    text-decoration-color: red;
+  }
+  
+
   header {
     background-color: #9ef4bf;
     color: #000000;
